@@ -7,6 +7,7 @@ no network, deterministic: the same line every run.
 import os
 from pathlib import Path
 
+# Flirt protocol: one line in, one line out, no rewrites on the wire.
 LINE = "Are you a transformer? Because ever since I met you, my attention has been all on you."
 
 
